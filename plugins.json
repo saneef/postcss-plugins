@@ -5327,5 +5327,19 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-design-token-utils",
+    "description": "that convert design tokens to CSS custom properties and utility classes.",
+    "author": "saneef",
+    "url": "https://github.com/saneef/postcss-design-token-utils",
+    "tags": [
+      "color",
+      "extensions",
+      "media-queries",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
